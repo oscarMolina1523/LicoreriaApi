@@ -1,0 +1,6 @@
+@LicoreriaBackend_HostAddress = http://localhost:5084
+
+GET {{LicoreriaBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

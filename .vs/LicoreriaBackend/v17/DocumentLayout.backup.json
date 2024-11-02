@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Backend-project\\LicoreriaBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A91A8BA-3AB3-4FAF-95EC-F0716877FB3A}|LicoreriaBackend.csproj|c:\\users\\user\\desktop\\backend-project\\licoreriabackend\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A91A8BA-3AB3-4FAF-95EC-F0716877FB3A}|LicoreriaBackend.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A91A8BA-3AB3-4FAF-95EC-F0716877FB3A}|LicoreriaBackend.csproj|c:\\users\\user\\desktop\\backend-project\\licoreriabackend\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A91A8BA-3AB3-4FAF-95EC-F0716877FB3A}|LicoreriaBackend.csproj|solutionrelative:controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Backend-project\\LicoreriaBackend\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Backend-project\\LicoreriaBackend\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "Controllers\\ProveedorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:32:32.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Backend-project\\LicoreriaBackend\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Backend-project\\LicoreriaBackend\\Controllers\\UsuarioController.cs*",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T18:32:27.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
